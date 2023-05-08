@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Joe Foster
 #### Data Science Student at CU Boulder
-![Data Science Student at CU Boulder](https://media.licdn.com/dms/image/C4E16AQEzyX6-ww5F3g/profile-displaybackgroundimage-shrink_350_1400/0/1609968637147?e=1689206400&v=beta&t=WTDC18LQNHkngNDfX3NjfGHXZlIV1KItow5am2IB3dM)
+![Data Science Student at CU Boulder]
 
 I am a current a Graduate Student at Colorado University Boulder studying Data Science.
 

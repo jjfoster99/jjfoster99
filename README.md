@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Joe Foster
-#### Data Science Student at CU Boulder living in Clemson, South Carolina
+#### Data Science Student at CU Boulder
 
 
-I am a current a Graduate Student at Colorado University Boulder studying Data Science.
+I am currently a graduate student at the University of Colorado Boulder, studying Data Science.
+I currently work and live in the Clemson area of South Carolina.
 
 Skills: Python / R / SQL / Stata / Tableau
 

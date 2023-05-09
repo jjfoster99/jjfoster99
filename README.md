@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Joe Foster
-#### Data Science Student at CU Boulder
+#### Data Science Student at CU Boulder living in Clemson, South Carolina
 
 
 I am a current a Graduate Student at Colorado University Boulder studying Data Science.
